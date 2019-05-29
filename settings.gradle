@@ -1,0 +1,1 @@
+include ':app', ':module_main', ':module_home', ':module_tree', ':module_nav', ':module_project', ':module_wechat', ':library_base', ':library_res', ':module_sign', ':module_user'

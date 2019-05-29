@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.thunderhou.component.module.user">
+    <application>
+        <activity android:name=".ui.activity.UserDetailActivity"/>
+    </application>
+</manifest>
